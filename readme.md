@@ -1,0 +1,2 @@
+Site feito em Parallax, que é uma técnica de web design na qual o plano de fundo do site se move em um ritmo mais lento do que o primeiro plano.
+Sugestão de ideia para o site pela Attekita Dev - Video: https://www.youtube.com/watch?v=cudOY_pI2Fo

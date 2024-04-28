@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container_img1 {
+  min-height: 100%;
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/14/03/29/grand-palace-1822487_1280.jpg");
+}
+
+.container_img1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+h1 {
+  display: flex;
+  position: absolute;
+  border: 2px solid transparent;
+  background-color: #000;
+  color: #fff;
+  padding: 1rem;
+  font-family: "Poppins", "sans-serif";
+  letter-spacing: 10px;
+  opacity: 0.8;
+}
+
+.section_one {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 40vh;
+  background-color: #fff;
+  padding: 1.5rem;
+  font-family: "Poppins", "sans-serif";
+}
+
+.container_two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  min-height: 60%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  opacity: 0.8;
+}
+
+.container_two {
+  background-image: url("https://images.alphacoders.com/102/1024510.jpg");
+  height: 60vh;
+}
+
+.h2_section_two {
+  position: absolute;
+  color: #000;
+  background-color: #fff;
+  padding: 1rem;
+  font-family: "Poppins", "sans-serif";
+  letter-spacing: 10px;
+  opacity: 0.8;
+}
+
+.main_section_two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  min-height: 40vh;
+  background-color: #fff;
+  padding: 1.5rem;
+  font-family: "Poppins", "sans-serif";
+}
+
+.section_container_three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  min-height: 60%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  opacity: 0.8;
+}
+
+.section_container_three {
+  background-image: url("https://cdn.pixabay.com/photo/2023/12/15/14/49/city-8450817_1280.jpg");
+  height: 60vh;
+}
+
+.h2_section_three {
+  position: absolute;
+  color: #000;
+  background-color: #fff;
+  padding: 1rem;
+  font-family: "Poppins", "sans-serif";
+  letter-spacing: 10px;
+  opacity: 0.8;
+}
+
+.main_section_three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  min-height: 40vh;
+  background-color: #fff;
+  padding: 1.5rem;
+  font-family: "Poppins", "sans-serif";
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.footer {
+  background-image: url("https://cdn.pixabay.com/photo/2022/12/28/21/10/night-7683839_1280.jpg");
+  height: 100%;
+}
+
+.h2_footer {
+  position: absolute;
+  border: 2px solid transparent;
+  background-color: #000;
+  color: #fff;
+  padding: 1rem;
+  font-family: "Poppins", "sans-serif";
+  letter-spacing: 10px;
+  opacity: 0.8;
+}
